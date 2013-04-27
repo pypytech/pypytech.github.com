@@ -10,7 +10,7 @@ body {
     background-color: white;
     color: #101010;
 
-    font-family: "Microsoft Yahei","Î¢ÈíÑÅºÚ",Tahoma, helvetica, arial, freesans, clean, sans-serif;
+    font-family: "Microsoft Yahei","Î¢ï¿½ï¿½ï¿½Åºï¿½",Tahoma, helvetica, arial, freesans, clean, sans-serif;
     font-size: 95%;
     line-height: 1.35em;
     letter-spacing: .1em;
@@ -20,7 +20,7 @@ h1, h2, h3,
 h4, h5, h6 {
     color: #333333;
 
-    font-family: "Microsoft Yahei","Î¢ÈíÑÅºÚ",Tahoma, "Georgia", "FreeSerif", serif;
+    font-family: "Microsoft Yahei","Î¢ï¿½ï¿½ï¿½Åºï¿½",Tahoma, "Georgia", "FreeSerif", serif;
     src: local('Oswald '), local('Oswald'), url('http://x.libdd.com/farm1/f0990f/4cf64a72/CDCCF.woff') format('woff');
 
     font-weight: bolder;
@@ -111,7 +111,7 @@ table tr {
 }
 
 
-
+img { max-width: 100%;}
 /******************************************************************************/
 /*                              Specific Styles                               */
 /******************************************************************************/
